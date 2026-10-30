@@ -1,0 +1,33 @@
+
+[
+  {
+    "id": "CAL-001",
+    "answer": "Returns are accepted within 30 days of delivery. Items must be unused and in original packaging. Refunds go to the original payment method within 5-7 business days after approval.",
+    "expected": 1
+  },
+  {
+    "id": "CAL-002",
+    "answer": "Returns are accepted within 60 days of delivery. Items must be unused and in original packaging. Refunds go to the original payment method within 5-7 business days after approval.",
+    "expected": 0
+  },
+  {
+    "id": "CAL-003",
+    "answer": "Items must be unused and in original packaging. Refunds go to the original payment method within 5-7 business days after approval.",
+    "expected": 0
+  },
+  {
+    "id": "CAL-004",
+    "answer": "CloudCart does not accept returns within 30 days of delivery. Items must be unused and in original packaging. Refunds are never issued to the original payment method within 5-7 business days after approval.",
+    "expected": 0
+  },
+  {
+    "id": "CAL-005",
+    "answer": "You have thirty days after delivery to return an item, provided it is unused and still in its original packaging. Once the return is approved, the money goes back to the payment method you originally used in five to seven business days.",
+    "expected": 1
+  },
+  {
+    "id": "CAL-006",
+    "answer": "CloudCart accepts returns within 30 days of delivery. Items must be unused and in original packaging. Refunds are issued as store credit within 5-7 business days after approval.",
+    "expected": 0
+  }
+]
